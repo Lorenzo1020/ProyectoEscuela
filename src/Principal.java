@@ -22,10 +22,6 @@ public class Principal {
 		// Realizar el crud basico
 		// Editar---numHab y precio
 
-		//Se agrego este nuevo codigo
-		int numero1 = 20;
-		System.out.println("Operacion " + numero1 * 10);
-
 		Scanner lectura = null;
 
 		String matricula, nombre, genero;
